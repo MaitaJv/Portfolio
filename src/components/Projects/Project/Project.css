@@ -1,0 +1,68 @@
+.project_container {
+    border-width: 4px;
+    border-style: solid;
+    border-color: var(--blanco);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 2rem;
+    overflow: hidden;
+    transition: border-color 0.5s ease, box-shadow 0.5s ease, transform  0.5s ease;
+}
+
+.main_project_container{
+    transform: translateY(-10px);
+    border-width: 4x;
+    border-style: solid;
+    border-color: var(--rojo);
+    border-radius: 2rem;
+    box-shadow: 10px 10px 10px 2px var(--rojo);
+}
+
+.header_projects {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_projects h4 {
+    width: max-content;
+    margin: 0;
+}
+
+.header_projects span {
+    font-size: 1.5rem;
+}
+
+/* Triángulo decorativo */
+.github_triangle {
+    position: absolute;
+    top: calc(100% - 5rem + 1px);
+    right: 0;
+    width: 5rem;
+    height: 5rem;
+    background-color: var(--rojo);
+    clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    z-index: 1;
+}
+
+/* Enlace con ícono clickeable */
+.github_link {
+    position: absolute;
+    bottom: 0.1rem;
+    right: 0.1rem;
+    z-index: 2;
+}
+
+.github_icon {
+    font-size: 40px !important;
+    color: var(--blanco);
+    transition: transform 0.3s ease;
+}

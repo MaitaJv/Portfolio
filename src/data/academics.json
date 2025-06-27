@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Front End Developer",
+        "status": "Recibido",
+        "description": "Aprendí a construir interfaces web modernas con ReactJS, HTML, CSS y Git. Enfocado en diseño responsive, buenas prácticas y consumo de APIs.",
+        "img": "https://bookface-images.s3.amazonaws.com/logos/a48e56b3a5c2519232c2f15ff8cf0b754863e2f5.png"
+    },
+    {
+        "name": "Ingeniería en Sistemas",
+        "status": "Tercer Año",
+        "description": "Formación académica en análisis, programación estructurada, arquitectura de computadoras y bases de datos. Actualmente cursando materias del 3er año.",
+        "img": "https://res.cloudinary.com/dxnmzjaon/image/upload/v1750993653/logo-centrado-ngo-blanco_zh707p.png"
+    },
+    {
+        "name": "Introduccion a Gestión de Redes",
+        "status": "Recibido",
+        "description": "Conocimientos sobre direccionamiento IPv4/IPv6, ruteo, protocolos, monitoreo y buenas prácticas para la administración de redes en entornos reales.",
+        "img": "https://www.elperiodista.cl/wp-content/uploads/2020/08/LACNIC-logo-300dpi-032016.png"
+    }
+]
