@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Project from './Project/Project'
 import projects_data from '../../data/projects.json'
 import type { ProjectData } from '../../interfaces/types'
