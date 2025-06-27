@@ -1,4 +1,3 @@
-import React from 'react'
 import KeyboardDoubleArrowDownIcon from '@mui/icons-material/KeyboardDoubleArrowDown';
 import './MainView.css'
 

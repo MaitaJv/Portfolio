@@ -1,4 +1,3 @@
-import React from 'react'
 import './AboutMe.css'
 import personal_data from './../../data/personal.json'
 
