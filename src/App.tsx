@@ -1,4 +1,4 @@
-import { Header, MainView, AboutMe, Knowledge, Projects } from './components/index'
+import { Header, MainView, AboutMe, Knowledge, Projects, Contact } from './components/index'
 import './App.css'
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
       <AboutMe/>
       <Knowledge/>
       <Projects/>
+      <Contact/>
     </>
   )
 }
