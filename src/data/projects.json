@@ -3,18 +3,21 @@
         "title": "Modelo de Sistema Operativo",
         "sub_title": "Trabajo Universitario",
         "description": "lorem",
-        "link": "https://github.com/MaitaJv/Proyecto-Sistemas-Operativos"
+        "link": "https://github.com/MaitaJv/Proyecto-Sistemas-Operativos",
+        "icons": ["C", "Linux", "Ubuntu", "Vim"]
     },
     {
         "title": "Software - PID Estación de Recepción",
         "sub_title": "Proyecto I+D UTN",
         "description": "lorem",
-        "link": "https://github.com/MaitaJv/PID_Javier"
+        "link": "https://github.com/MaitaJv/PID_Javier",
+        "icons": ["Python", "Numpy", "Bash"]
     },
     {
         "title": "TA-TE-TI Multiplayer",
         "sub_title": "Proyecto personal",
         "description": "lorem",
-        "link": "https://github.com/MaitaJv/tateti_backend"
+        "link": "https://github.com/MaitaJv/tateti_backend",
+        "icons": ["JS", "Nodejs", "React", "Socket.io"]
     }
 ]

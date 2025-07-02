@@ -6,7 +6,7 @@ const MainView = () => {
   const full_title: string = "Javier Maita"
   const [title, setTitle] = useState<string>("")
 
-  const subtitles: string[] = ["Técnico electronico", "Estudiante de Ingenieria en Sistemas", "Front End Developer"]
+  const subtitles: string[] = ["Técnico electrónico", "Estudiante de Ingenieria en Sistemas", "Front End Developer"]
   const [subtitle, setSubtitle] = useState("")
 
   const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));

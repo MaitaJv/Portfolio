@@ -4,6 +4,7 @@ import AboutMe from './AboutMe/AboutMe'
 import Knowledge from './Knowledge/Knowledge'
 import Projects from './Projects/Projects'
 import Contact from './Contact/Contact'
+import Icons from './Projects/Project/Icons'
 
 export{
     Header,
@@ -11,5 +12,6 @@ export{
     AboutMe,
     Knowledge,
     Projects,
-    Contact
+    Contact,
+    Icons
 }

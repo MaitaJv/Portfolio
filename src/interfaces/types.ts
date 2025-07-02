@@ -3,4 +3,5 @@ export interface ProjectData {
   sub_title: string;
   description: string;
   link: string;
+  icons:string[]
 }
